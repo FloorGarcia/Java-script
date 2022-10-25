@@ -2,3 +2,30 @@ body{
     background-color: rgba(68, 34, 124, 0.623);
     color: aliceblue;
 }
+
+.contenedorMedio, .contenedorProductos{
+    padding: 8%;
+    margin: 2%;
+    text-align: center;
+}
+
+.subtitulo{
+    padding: 2%;
+}
+
+.contenedorProductos{
+    background-color: aliceblue;
+    color: rgb(48, 0, 94);
+}
+
+nav{
+    padding: 2%;
+}
+
+.registrarseNav{
+    text-align:right;
+}
+
+header{
+    margin-bottom: 2%;
+}
